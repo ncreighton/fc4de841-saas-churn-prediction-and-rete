@@ -1,2 +1,31 @@
-# fc4de841-saas-churn-prediction-and-rete
-n8n workflow that monitors SaaS subscription data, calculates churn risk scores using engagement signals, and triggers personalised retention campaigns. Integrates with Stripe webhooks, sends at-risk customer alerts to Slack, and auto-enrolls users into Drip sequences via Mailchimp.
+# SaaS Churn Prediction and Retention Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIdR93aL9Mw2hibzScZa2L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIdR93aL9Mw2hibzScZa2L)
+- [Buy on Gumroad](https://cleargum.gumroad.com/l/uxgit)
+- [Buy on Whop](https://whop.com/saas-churn-prediction-and-retention-workflow)
+
